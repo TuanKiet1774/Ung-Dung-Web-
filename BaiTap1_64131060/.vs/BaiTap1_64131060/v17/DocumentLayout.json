@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTUDW\\BaiTap1_64131060\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37049EBF-BE32-4E1D-91F1-1FF60E05AA2D}|BaiTap1_64131060.csproj|d:\\ptudw\\baitap1_64131060\\views\\pheptoan_64131060\\userequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37049EBF-BE32-4E1D-91F1-1FF60E05AA2D}|BaiTap1_64131060.csproj|solutionrelative:views\\pheptoan_64131060\\userequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37049EBF-BE32-4E1D-91F1-1FF60E05AA2D}|BaiTap1_64131060.csproj|D:\\PTUDW\\BaiTap1_64131060\\Controllers\\PhepToan_64131060Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37049EBF-BE32-4E1D-91F1-1FF60E05AA2D}|BaiTap1_64131060.csproj|solutionrelative:Controllers\\PhepToan_64131060Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37049EBF-BE32-4E1D-91F1-1FF60E05AA2D}|BaiTap1_64131060.csproj|D:\\PTUDW\\BaiTap1_64131060\\Views\\PhepToan_64131060\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37049EBF-BE32-4E1D-91F1-1FF60E05AA2D}|BaiTap1_64131060.csproj|solutionrelative:Views\\PhepToan_64131060\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37049EBF-BE32-4E1D-91F1-1FF60E05AA2D}|BaiTap1_64131060.csproj|D:\\PTUDW\\BaiTap1_64131060\\Views\\PhepToan_64131060\\UseArguments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37049EBF-BE32-4E1D-91F1-1FF60E05AA2D}|BaiTap1_64131060.csproj|solutionrelative:Views\\PhepToan_64131060\\UseArguments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37049EBF-BE32-4E1D-91F1-1FF60E05AA2D}|BaiTap1_64131060.csproj|D:\\PTUDW\\BaiTap1_64131060\\Views\\PhepToan_64131060\\UseFormCollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37049EBF-BE32-4E1D-91F1-1FF60E05AA2D}|BaiTap1_64131060.csproj|solutionrelative:Views\\PhepToan_64131060\\UseFormCollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhepToan_64131060Controller.cs",
+              "DocumentMoniker": "D:\\PTUDW\\BaiTap1_64131060\\Controllers\\PhepToan_64131060Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\PhepToan_64131060Controller.cs",
+              "ToolTip": "D:\\PTUDW\\BaiTap1_64131060\\Controllers\\PhepToan_64131060Controller.cs",
+              "RelativeToolTip": "Controllers\\PhepToan_64131060Controller.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAwBIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:31:05.235Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PTUDW\\BaiTap1_64131060\\Views\\PhepToan_64131060\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\PhepToan_64131060\\Index.cshtml",
+              "ToolTip": "D:\\PTUDW\\BaiTap1_64131060\\Views\\PhepToan_64131060\\Index.cshtml",
+              "RelativeToolTip": "Views\\PhepToan_64131060\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T16:01:17.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UseRequest.cshtml",
+              "DocumentMoniker": "D:\\PTUDW\\BaiTap1_64131060\\Views\\PhepToan_64131060\\UseRequest.cshtml",
+              "RelativeDocumentMoniker": "Views\\PhepToan_64131060\\UseRequest.cshtml",
+              "ToolTip": "D:\\PTUDW\\BaiTap1_64131060\\Views\\PhepToan_64131060\\UseRequest.cshtml",
+              "RelativeToolTip": "Views\\PhepToan_64131060\\UseRequest.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T15:51:24.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UseArguments.cshtml",
+              "DocumentMoniker": "D:\\PTUDW\\BaiTap1_64131060\\Views\\PhepToan_64131060\\UseArguments.cshtml",
+              "RelativeDocumentMoniker": "Views\\PhepToan_64131060\\UseArguments.cshtml",
+              "ToolTip": "D:\\PTUDW\\BaiTap1_64131060\\Views\\PhepToan_64131060\\UseArguments.cshtml",
+              "RelativeToolTip": "Views\\PhepToan_64131060\\UseArguments.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T15:50:19.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UseFormCollection.cshtml",
+              "DocumentMoniker": "D:\\PTUDW\\BaiTap1_64131060\\Views\\PhepToan_64131060\\UseFormCollection.cshtml",
+              "RelativeDocumentMoniker": "Views\\PhepToan_64131060\\UseFormCollection.cshtml",
+              "ToolTip": "D:\\PTUDW\\BaiTap1_64131060\\Views\\PhepToan_64131060\\UseFormCollection.cshtml",
+              "RelativeToolTip": "Views\\PhepToan_64131060\\UseFormCollection.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T15:41:01.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

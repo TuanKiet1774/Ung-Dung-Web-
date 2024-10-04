@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTUDW\\BaiTap4_64131060\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{697712F7-A88C-4BBD-8D2D-4DFB1904260E}|BaiTap4_64131060.csproj|D:\\PTUDW\\BaiTap4_64131060\\controllers\\guiemail_64131060controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697712F7-A88C-4BBD-8D2D-4DFB1904260E}|BaiTap4_64131060.csproj|solutionrelative:controllers\\guiemail_64131060controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697712F7-A88C-4BBD-8D2D-4DFB1904260E}|BaiTap4_64131060.csproj|d:\\ptudw\\baitap4_64131060\\views\\guiemail_64131060\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{697712F7-A88C-4BBD-8D2D-4DFB1904260E}|BaiTap4_64131060.csproj|solutionrelative:views\\guiemail_64131060\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697712F7-A88C-4BBD-8D2D-4DFB1904260E}|BaiTap4_64131060.csproj|D:\\PTUDW\\BaiTap4_64131060\\models\\mailinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697712F7-A88C-4BBD-8D2D-4DFB1904260E}|BaiTap4_64131060.csproj|solutionrelative:models\\mailinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PTUDW\\BaiTap4_64131060\\Views\\GuiEmail_64131060\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\GuiEmail_64131060\\Index.cshtml",
+              "ToolTip": "D:\\PTUDW\\BaiTap4_64131060\\Views\\GuiEmail_64131060\\Index.cshtml",
+              "RelativeToolTip": "Views\\GuiEmail_64131060\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T05:47:27.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuiEmail_64131060Controller.cs",
+              "DocumentMoniker": "D:\\PTUDW\\BaiTap4_64131060\\Controllers\\GuiEmail_64131060Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\GuiEmail_64131060Controller.cs",
+              "ToolTip": "D:\\PTUDW\\BaiTap4_64131060\\Controllers\\GuiEmail_64131060Controller.cs",
+              "RelativeToolTip": "Controllers\\GuiEmail_64131060Controller.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:02:45.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MailInfo.cs",
+              "DocumentMoniker": "D:\\PTUDW\\BaiTap4_64131060\\Models\\MailInfo.cs",
+              "RelativeDocumentMoniker": "Models\\MailInfo.cs",
+              "ToolTip": "D:\\PTUDW\\BaiTap4_64131060\\Models\\MailInfo.cs",
+              "RelativeToolTip": "Models\\MailInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:07:55.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

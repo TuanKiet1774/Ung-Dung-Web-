@@ -1,0 +1,79 @@
+﻿@model BaiTap4_64131060.Models.MailInfo
+
+@{
+    ViewBag.Title = "Index";
+    Layout = null;
+}
+
+
+
+@using (Html.BeginForm())
+{
+
+    @Html.AntiForgeryToken()
+<div style="border: 1px solid black; width:fit-content;">
+    <table style="margin: 10px">
+        <tr>
+            <th colspan="2">
+                CHỨC NĂNG GỬI MAIL
+            </th>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.From, "Gửi từ mail", htmlAttributes: new { @class = "control-label col-md-2" })
+            </td>
+            <td>
+                @Html.EditorFor(model => model.From, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.From, "", new { @class = "text-danger" })
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.Password, "Mật khẩu", htmlAttributes: new { @class = "control-label col-md-2" })
+            </td>
+            <td>
+                @Html.PasswordFor(model => model.Password, new { htmlAttributes = new { @class = "form-control w-100" } })
+                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.To, "Gửi đến mail", htmlAttributes: new { @class = "control-label col-md-2" })
+            </td>
+            <td>
+                @Html.EditorFor(model => model.To, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.To, "", new { @class = "text-danger" })
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.Subject,"Tiêu đề", htmlAttributes: new { @class = "control-label col-md-2" })
+            </td>
+            <td>
+                @Html.EditorFor(model => model.Subject, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Subject, "", new { @class = "text-danger" })
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.Body,"Nội dung", htmlAttributes: new { @class = "control-label col-md-2" })
+            </td>
+            <td>
+                @Html.TextAreaFor(model => model.Body, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Body, "", new { @class = "text-danger" })
+            </td>
+        </tr>
+        <tr>
+            <td>
+            </td>
+            <td>
+                <input type="submit" value="Gửi mail" class="btn btn-default" />
+            </td>
+        </tr>
+    </table>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

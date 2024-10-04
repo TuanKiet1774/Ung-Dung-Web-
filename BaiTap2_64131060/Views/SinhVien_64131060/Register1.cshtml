@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Thông tin sinh viên";
+    Layout = null;
+}
+
+<div style="width: 100%; align-content: center;">
+    <div style="margin: auto; padding: 10px; width: fit-content; border: 1px solid black;">
+        <h3 style="margin: auto">Thông Tin Sinh Viên</h3>
+        <div style="padding: 2px">
+            <b>Mã sinh viên:</b> @ViewBag.Id
+        </div>
+        <div style="padding: 2px">
+            <b>Họ và tên:</b> @ViewBag.Name
+        </div>
+        <div style="padding: 2px">
+            <b>Điểm:</b> @ViewBag.Marks
+        </div>
+        <div style="padding: 2px">
+            <a style="text-decoration: none; color: red;" href="/SinhVien_64131060/Index"> Quay lại </a>
+        </div>
+    </div>
+</div>

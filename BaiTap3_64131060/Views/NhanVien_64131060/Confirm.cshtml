@@ -1,0 +1,77 @@
+﻿
+@{
+    ViewBag.Title = "Confirm";
+    Layout = null;
+}
+
+<div style="width: fit-content; border: 2px solid black">
+    <div style="width: 100%">
+        <h4 style="text-align: center;">THÔNG TIN NHÂN VIÊN ĐÃ ĐĂNG KÝ</h4>
+    </div>
+    <table style="margin: 5px;">
+        <tr>
+            <td rowspan="8">
+                <img src="@ViewBag.Avatar" style="width: 150px; border-radius: 50%" /><br />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Mã nhân viên:
+            </td>
+            <td>
+                @ViewBag.empID
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Họ tên:
+            </td>
+            <td>
+                @ViewBag.Name
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Ngày sinh:
+            </td>
+            <td>
+                @ViewBag.BirthOfDate
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Email:
+            </td>
+            <td>
+                @ViewBag.Email
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Mật khẩu:
+            </td>
+            <td>
+                @ViewBag.Password
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Phòng ban:
+            </td>
+            <td>
+                @ViewBag.Department
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <button name="button" type="button">
+                    <a href="/NhanVien_64131060/Index" style="text-decoration: none; color: black; ">Quay lại</a>
+                </button>
+            </td>
+            <td></td>
+        </tr>
+    </table>
+    
+     
+</div>
+
