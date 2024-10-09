@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\PTUDW\\BaiTap2_64131060\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|D:\\PTUDW\\BaiTap2_64131060\\views\\sinhvien_64131060\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|D:\\PTUDW\\BaiTap2_64131060\\views\\sinhvien_64131060\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|solutionrelative:views\\sinhvien_64131060\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|D:\\PTUDW\\BaiTap2_64131060\\controllers\\sinhvien_64131060controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|solutionrelative:controllers\\sinhvien_64131060controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|d:\\ptudw\\baitap2_64131060\\views\\sinhvien_64131060\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|solutionrelative:views\\sinhvien_64131060\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|d:\\ptudw\\baitap2_64131060\\views\\sinhvien_64131060\\index4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|D:\\PTUDW\\BaiTap2_64131060\\views\\sinhvien_64131060\\index4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|solutionrelative:views\\sinhvien_64131060\\index4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|D:\\PTUDW\\BaiTap2_64131060\\views\\sinhvien_64131060\\register3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|solutionrelative:views\\sinhvien_64131060\\register3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|D:\\PTUDW\\BaiTap2_64131060\\controllers\\sinhvien_64131060controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|solutionrelative:controllers\\sinhvien_64131060controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|D:\\PTUDW\\BaiTap2_64131060\\views\\sinhvien_64131060\\register1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|solutionrelative:views\\sinhvien_64131060\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|D:\\PTUDW\\BaiTap2_64131060\\views\\sinhvien_64131060\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|solutionrelative:views\\sinhvien_64131060\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|D:\\PTUDW\\BaiTap2_64131060\\views\\sinhvien_64131060\\register2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4377BAEF-7E4D-4E6A-B054-CD06FD2C026C}|BaiTap2_64131060.csproj|solutionrelative:views\\sinhvien_64131060\\register2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Register1.cshtml",
               "DocumentMoniker": "D:\\PTUDW\\BaiTap2_64131060\\Views\\SinhVien_64131060\\Register1.cshtml",
               "RelativeDocumentMoniker": "Views\\SinhVien_64131060\\Register1.cshtml",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\PTUDW\\BaiTap2_64131060\\Views\\SinhVien_64131060\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\SinhVien_64131060\\Index.cshtml",
@@ -75,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Register4.cshtml",
               "DocumentMoniker": "D:\\PTUDW\\BaiTap2_64131060\\Views\\SinhVien_64131060\\Register4.cshtml",
               "RelativeDocumentMoniker": "Views\\SinhVien_64131060\\Register4.cshtml",
@@ -87,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index4.cshtml",
               "DocumentMoniker": "D:\\PTUDW\\BaiTap2_64131060\\Views\\SinhVien_64131060\\Index4.cshtml",
               "RelativeDocumentMoniker": "Views\\SinhVien_64131060\\Index4.cshtml",
@@ -95,12 +95,11 @@
               "RelativeToolTip": "Views\\SinhVien_64131060\\Index4.cshtml",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAAAgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T12:07:15.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:07:15.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Register3.cshtml",
               "DocumentMoniker": "D:\\PTUDW\\BaiTap2_64131060\\Views\\SinhVien_64131060\\Register3.cshtml",
               "RelativeDocumentMoniker": "Views\\SinhVien_64131060\\Register3.cshtml",
@@ -112,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index3.cshtml",
               "DocumentMoniker": "D:\\PTUDW\\BaiTap2_64131060\\Views\\SinhVien_64131060\\Index3.cshtml",
               "RelativeDocumentMoniker": "Views\\SinhVien_64131060\\Index3.cshtml",
@@ -136,27 +135,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Index2.cshtml",
               "DocumentMoniker": "D:\\PTUDW\\BaiTap2_64131060\\Views\\SinhVien_64131060\\Index2.cshtml",
               "RelativeDocumentMoniker": "Views\\SinhVien_64131060\\Index2.cshtml",
               "ToolTip": "D:\\PTUDW\\BaiTap2_64131060\\Views\\SinhVien_64131060\\Index2.cshtml",
               "RelativeToolTip": "Views\\SinhVien_64131060\\Index2.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T12:04:12.003Z"
+              "WhenOpened": "2024-10-01T12:04:12.003Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "SinhVien_64131060Controller.cs",
               "DocumentMoniker": "D:\\PTUDW\\BaiTap2_64131060\\Controllers\\SinhVien_64131060Controller.cs",
               "RelativeDocumentMoniker": "Controllers\\SinhVien_64131060Controller.cs",
               "ToolTip": "D:\\PTUDW\\BaiTap2_64131060\\Controllers\\SinhVien_64131060Controller.cs",
               "RelativeToolTip": "Controllers\\SinhVien_64131060Controller.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAgAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAkwC4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T11:58:24.485Z"
+              "WhenOpened": "2024-10-01T11:58:24.485Z",
+              "EditorCaption": ""
             }
           ]
         }

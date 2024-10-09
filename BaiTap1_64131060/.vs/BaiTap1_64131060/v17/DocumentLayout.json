@@ -40,10 +40,11 @@
               "RelativeDocumentMoniker": "Controllers\\PhepToan_64131060Controller.cs",
               "ToolTip": "D:\\PTUDW\\BaiTap1_64131060\\Controllers\\PhepToan_64131060Controller.cs",
               "RelativeToolTip": "Controllers\\PhepToan_64131060Controller.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAAwBIAAAAwAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAkwFMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T15:31:05.235Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -65,7 +66,7 @@
               "RelativeDocumentMoniker": "Views\\PhepToan_64131060\\UseRequest.cshtml",
               "ToolTip": "D:\\PTUDW\\BaiTap1_64131060\\Views\\PhepToan_64131060\\UseRequest.cshtml",
               "RelativeToolTip": "Views\\PhepToan_64131060\\UseRequest.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-23T15:51:24.878Z",
               "EditorCaption": ""

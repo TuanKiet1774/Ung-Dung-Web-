@@ -22,7 +22,8 @@
     height: 30px;
     padding-top: 15px;
     text-align: center;
-    background-color: violet;
+    background-color: rgba(12,67,150,255);
+    color: white;
 }
 
 #content {

@@ -1,10 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PTUDW\\BaiTap5_64131060\\",
+  "WorkspaceRootPath": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|D:\\PTUDW\\BaiTap5_64131060\\controllers\\page_64131060controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\views\\page_64131060\\sendmail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|solutionrelative:views\\page_64131060\\sendmail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\views\\page_64131060\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|solutionrelative:views\\page_64131060\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|d:\\ptudw\\ung-dung-web-\\baitap5_64131060\\controllers\\page_64131060controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|solutionrelative:controllers\\page_64131060controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\views\\page_64131060\\registeremp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|solutionrelative:views\\page_64131060\\registeremp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\views\\page_64131060\\mailalert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|solutionrelative:views\\page_64131060\\mailalert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\content\\styleadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|solutionrelative:content\\styleadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|solutionrelative:views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\views\\page_64131060\\changebanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|solutionrelative:views\\page_64131060\\changebanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\views\\page_64131060\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4922B3C1-3C8F-46E0-907D-E04D951683DC}|BaiTap5_64131060.csproj|solutionrelative:views\\page_64131060\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +46,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Views\\Page_64131060\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Page_64131060\\Index.cshtml",
+              "ToolTip": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Views\\Page_64131060\\Index.cshtml",
+              "RelativeToolTip": "Views\\Page_64131060\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T13:02:44.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChangeBanner.cshtml",
+              "DocumentMoniker": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Views\\Page_64131060\\ChangeBanner.cshtml",
+              "RelativeDocumentMoniker": "Views\\Page_64131060\\ChangeBanner.cshtml",
+              "ToolTip": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Views\\Page_64131060\\ChangeBanner.cshtml",
+              "RelativeToolTip": "Views\\Page_64131060\\ChangeBanner.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T13:01:06.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterEmp.cshtml",
+              "DocumentMoniker": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Views\\Page_64131060\\RegisterEmp.cshtml",
+              "RelativeDocumentMoniker": "Views\\Page_64131060\\RegisterEmp.cshtml",
+              "ToolTip": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Views\\Page_64131060\\RegisterEmp.cshtml",
+              "RelativeToolTip": "Views\\Page_64131060\\RegisterEmp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T12:24:03.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Confirm.cshtml",
+              "DocumentMoniker": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Views\\Page_64131060\\Confirm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Page_64131060\\Confirm.cshtml",
+              "ToolTip": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Views\\Page_64131060\\Confirm.cshtml",
+              "RelativeToolTip": "Views\\Page_64131060\\Confirm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T11:53:57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MailAlert.cshtml",
+              "DocumentMoniker": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Views\\Page_64131060\\MailAlert.cshtml",
+              "RelativeDocumentMoniker": "Views\\Page_64131060\\MailAlert.cshtml",
+              "ToolTip": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Views\\Page_64131060\\MailAlert.cshtml",
+              "RelativeToolTip": "Views\\Page_64131060\\MailAlert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T11:44:19.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StyleAdmin.css",
+              "DocumentMoniker": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Content\\StyleAdmin.css",
+              "RelativeDocumentMoniker": "Content\\StyleAdmin.css",
+              "ToolTip": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Content\\StyleAdmin.css",
+              "RelativeToolTip": "Content\\StyleAdmin.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-08T11:34:30.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T11:33:18.335Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SendMail.cshtml",
+              "DocumentMoniker": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Views\\Page_64131060\\SendMail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Page_64131060\\SendMail.cshtml",
+              "ToolTip": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Views\\Page_64131060\\SendMail.cshtml",
+              "RelativeToolTip": "Views\\Page_64131060\\SendMail.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T11:32:12.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Page_64131060Controller.cs",
-              "DocumentMoniker": "D:\\PTUDW\\BaiTap5_64131060\\Controllers\\Page_64131060Controller.cs",
+              "DocumentMoniker": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Controllers\\Page_64131060Controller.cs",
               "RelativeDocumentMoniker": "Controllers\\Page_64131060Controller.cs",
-              "ToolTip": "D:\\PTUDW\\BaiTap5_64131060\\Controllers\\Page_64131060Controller.cs",
+              "ToolTip": "D:\\PTUDW\\Ung-Dung-Web-\\BaiTap5_64131060\\Controllers\\Page_64131060Controller.cs",
               "RelativeToolTip": "Controllers\\Page_64131060Controller.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAYwFkAAAAJAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwFgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T07:28:48.148Z",
               "EditorCaption": ""
