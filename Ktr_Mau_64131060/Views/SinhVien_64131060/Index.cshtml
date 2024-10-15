@@ -1,0 +1,95 @@
+﻿@model IEnumerable<Ktr_Mau_64131060.Models.SINHVIEN>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    string gt = "";
+    int i = 0;
+}
+
+<h2>Danh Sách Thông Tin Sinh Viên</h2>
+<hr />
+<div style="border: 1px solid black; width: fit-content; margin-left: 10px; display:flex;">
+    <div style="border-right: 1px solid black;">@Html.ActionLink("Thêm mới thông tin nhân viên", "Create")</div>
+    <div>@Html.ActionLink("In danh sách", "PrintList")</div>
+</div>
+<table class="table">
+    <tr>
+        <th>
+            STT
+        </th>
+        <th>
+            Mã SV
+        </th>
+        <th>
+            Họ
+        </th>
+        <th>
+            Tên
+        </th>
+        <th>
+            Giới tính
+        </th>
+        <th>
+            Ngày sinh
+        </th>
+        <th>
+            Ảnh Đại Diện
+        </th>
+        <th>
+            Địa Chỉ
+        </th>
+        <th>
+            Lớp
+        </th>
+        <th>
+            Chức năng
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @{
+                i++;
+            }
+            @i
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MaSV)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.HoSV)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenSV)
+        </td>
+        <td>
+            @{if (item.GioiTinh == true)
+                { gt = "Nam"; }
+                else
+                { gt = "Nữ"; }
+            }
+            @gt
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NgaySinh)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AnhSV)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DiaChi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LOP.TenLop)
+        </td>
+        <td>
+            @Html.ActionLink("Sửa", "Edit", new { id = item.MaSV }) |
+            @Html.ActionLink("Chi Tiết", "Details", new { id = item.MaSV }) |
+            @Html.ActionLink("Xóa", "Delete", new { id = item.MaSV })
+        </td>
+    </tr>
+}
+
+</table>
