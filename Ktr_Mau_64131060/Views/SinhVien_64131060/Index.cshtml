@@ -3,9 +3,46 @@
 @{
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
-    string gt = "";
-    int i = 0;
+    var grid = new WebGrid(Model, canPage: true, defaultSort: "TenSV", rowsPerPage: 2);
+    @Scripts.Render("~/Scripts/jquery-1.6.2.min.js")
 }
+
+<style type="text/css">
+    .grid-footer {
+        color: #000;
+        font: 17px Calibri;
+        text-align: center;
+        font-weight: bold;
+    }
+
+        .grid-footer a {
+            background-color: #ffffff;
+            color: blue;
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+            padding: 1px 10px 2px 10px;
+        }
+
+            .grid-footer a:active, a:hover {
+                background-color: #ffffff;
+                color: #FFAD33;
+                box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+            }
+
+    .alternatingRowStyle {
+        background-color: aliceblue;
+    }
+
+    table .table1 {
+        text-align: left;
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 800px;
+    }
+
+    .tr, .td {
+        text-align: left;
+    }
+</style>
 
 <h2>Danh Sách Thông Tin Sinh Viên</h2>
 <hr />
@@ -13,83 +50,29 @@
     <div style="border-right: 1px solid black;">@Html.ActionLink("Thêm mới thông tin nhân viên", "Create")</div>
     <div>@Html.ActionLink("In danh sách", "PrintList")</div>
 </div>
-<table class="table">
-    <tr>
-        <th>
-            STT
-        </th>
-        <th>
-            Mã SV
-        </th>
-        <th>
-            Họ
-        </th>
-        <th>
-            Tên
-        </th>
-        <th>
-            Giới tính
-        </th>
-        <th>
-            Ngày sinh
-        </th>
-        <th>
-            Ảnh Đại Diện
-        </th>
-        <th>
-            Địa Chỉ
-        </th>
-        <th>
-            Lớp
-        </th>
-        <th>
-            Chức năng
-        </th>
-    </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @{
-                i++;
-            }
-            @i
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.MaSV)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.HoSV)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.TenSV)
-        </td>
-        <td>
-            @{if (item.GioiTinh == true)
-                { gt = "Nam"; }
-                else
-                { gt = "Nữ"; }
-            }
-            @gt
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.NgaySinh)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.AnhSV)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.DiaChi)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.LOP.TenLop)
-        </td>
-        <td>
-            @Html.ActionLink("Sửa", "Edit", new { id = item.MaSV }) |
-            @Html.ActionLink("Chi Tiết", "Details", new { id = item.MaSV }) |
-            @Html.ActionLink("Xóa", "Delete", new { id = item.MaSV })
-        </td>
-    </tr>
+<div id="gridContent">
+    @ViewBag.TB
+    @grid.GetHtml(
+        tableStyle: "table table-bordered table-hover",
+        footerStyle: "grid-footer",
+        fillEmptyRows: true,
+        mode: WebGridPagerModes.Numeric,
+        alternatingRowStyle: "alternatingRowStyle",
+          columns: new[]  // colums in grid
+         {
+            grid.Column("STT",format: item => item.WebGrid.Rows.IndexOf(item) + 1 + Math.Round(Convert.ToDouble(grid.TotalRowCount / grid.PageCount) / grid.RowsPerPage) * grid.RowsPerPage * grid.PageIndex),
+            grid.Column("MaSV","Mã sinh viên"), //the model fields to display
+            grid.Column("HoSV","Họ sinh viên"  ),
+            grid.Column("TenSV","Tên sinh viên"),
+            grid.Column("GioiTinh","Giới tính",format: (@item) => @item.GioiTinh==true?"Nam":"Nữ"),
+            grid.Column("NgaySinh","Ngày sinh",format:@<text> @item.NgaySinh.ToString("dd/MM/yyyy")</text>),
+            grid.Column("AnhSV","Ảnh đại diện"),
+            grid.Column("DiaChi","Địa chỉ"),
+            grid.Column("LOP.TenLop","Lớp"),
+            grid.Column(format: (item) => Html.ActionLink("Xem chi tiết", "Details","SinhVien_64131060", new { id = item.MaSV },"SinhVien_64131060Controller")),
+            grid.Column(format: (item) => Html.ActionLink("Sửa", "Edit","SinhVien_64131060", new { id = item.MaSV },"SinhVien_64131060Controller")),
+            grid.Column(format: (item) => Html.ActionLink("Xóa", "Delete","SinhVien_64131060", new { id = item.MaSV },"SinhVien_64131060Controller")),
 }
-
-</table>
+)
+</div>
