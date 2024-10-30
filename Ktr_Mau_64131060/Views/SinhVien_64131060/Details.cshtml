@@ -38,7 +38,7 @@
                 </tr>
                 <tr>
                     <td>Ngày sinh:</td>
-                    <td>@Html.DisplayFor(model => model.NgaySinh)</td>
+                    <td> @(Model.NgaySinh.HasValue ? Model.NgaySinh.Value.ToString("dd/MM/yyyy") : "N/A")</td>
                 </tr>
                 <tr>
                     <td>Địa chỉ:</td>

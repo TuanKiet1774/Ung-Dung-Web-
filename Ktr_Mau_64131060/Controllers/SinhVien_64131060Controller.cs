@@ -25,24 +25,24 @@ namespace Ktr_Mau_64131060.Controllers
         //}
 
         // GET: TimKiem
-        public ActionResult TimKiem()
-        {
+        //public ActionResult TimKiem()
+        //{
             // Lấy toàn bộ danh sách lớp
-            ViewBag.TenLop = new SelectList(db.LOPs, "MaLop", "TenLop"); // "MaLop" là value, "TenLop" là text
+            //ViewBag.TenLop = new SelectList(db.LOPs, "MaLop", "TenLop"); // "MaLop" là value, "TenLop" là text
 
-            var SinhVien = db.SINHVIENs.Include(n => n.LOP).ToList();
-            return View(SinhVien.ToList());
-        }
+           // var SinhVien = db.SINHVIENs.Include(n => n.LOP).ToList();
+            //return View(SinhVien.ToList());
+        //}
 
 
         // POST: TimKiem
-        [HttpPost]
-        public ActionResult TimKiem(string msv)
-        {
+        //[HttpPost]
+        //public ActionResult TimKiem(string msv)
+        //{
             // Tìm sinh viên theo mã sinh viên
-            var SinhVien = db.SINHVIENs.Where(sv => sv.MaSV == msv).Include(sv => sv.LOP).ToList();
-            return View(SinhVien.ToList());
-        }
+            //var SinhVien = db.SINHVIENs.Where(sv => sv.MaSV == msv).Include(sv => sv.LOP).ToList();
+            //return View(SinhVien.ToList());
+        //}
 
         // GET: TimKiemSV
         [HttpGet]

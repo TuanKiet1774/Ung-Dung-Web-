@@ -79,8 +79,7 @@
 
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.NgaySinh)
-
+                @(item.NgaySinh.HasValue ? item.NgaySinh.Value.ToString("dd/MM/yyyy") : "N/A")
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.DiaChi)
