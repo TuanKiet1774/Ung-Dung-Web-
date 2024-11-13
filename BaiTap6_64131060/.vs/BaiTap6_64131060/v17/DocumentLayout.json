@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "D:\\PTUDW\\BaiTap6_64131060\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7A08BC1-F8BD-4965-A8C8-5C5B3A5DAFC4}|BaiTap6_64131060.csproj|d:\\ptudw\\baitap6_64131060\\views\\quantris\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7A08BC1-F8BD-4965-A8C8-5C5B3A5DAFC4}|BaiTap6_64131060.csproj|solutionrelative:views\\quantris\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D7A08BC1-F8BD-4965-A8C8-5C5B3A5DAFC4}|BaiTap6_64131060.csproj|d:\\ptudw\\baitap6_64131060\\views\\nhanviens_64131060\\timkiemnc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7A08BC1-F8BD-4965-A8C8-5C5B3A5DAFC4}|BaiTap6_64131060.csproj|solutionrelative:views\\nhanviens_64131060\\timkiemnc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7A08BC1-F8BD-4965-A8C8-5C5B3A5DAFC4}|BaiTap6_64131060.csproj|d:\\ptudw\\baitap6_64131060\\views\\phongbans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7A08BC1-F8BD-4965-A8C8-5C5B3A5DAFC4}|BaiTap6_64131060.csproj|solutionrelative:views\\phongbans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A08BC1-F8BD-4965-A8C8-5C5B3A5DAFC4}|BaiTap6_64131060.csproj|d:\\ptudw\\baitap6_64131060\\views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7A08BC1-F8BD-4965-A8C8-5C5B3A5DAFC4}|BaiTap6_64131060.csproj|solutionrelative:views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A08BC1-F8BD-4965-A8C8-5C5B3A5DAFC4}|BaiTap6_64131060.csproj|d:\\ptudw\\baitap6_64131060\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7A08BC1-F8BD-4965-A8C8-5C5B3A5DAFC4}|BaiTap6_64131060.csproj|solutionrelative:views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A08BC1-F8BD-4965-A8C8-5C5B3A5DAFC4}|BaiTap6_64131060.csproj|d:\\ptudw\\baitap6_64131060\\views\\gioithieu\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7A08BC1-F8BD-4965-A8C8-5C5B3A5DAFC4}|BaiTap6_64131060.csproj|solutionrelative:views\\gioithieu\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D7A08BC1-F8BD-4965-A8C8-5C5B3A5DAFC4}|BaiTap6_64131060.csproj|d:\\ptudw\\baitap6_64131060\\views\\nhanviens_64131060\\printlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7A08BC1-F8BD-4965-A8C8-5C5B3A5DAFC4}|BaiTap6_64131060.csproj|solutionrelative:views\\nhanviens_64131060\\printlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DangNhap.cshtml",
-              "DocumentMoniker": "D:\\PTUDW\\BaiTap6_64131060\\Views\\QuanTris\\DangNhap.cshtml",
-              "RelativeDocumentMoniker": "Views\\QuanTris\\DangNhap.cshtml",
-              "ToolTip": "D:\\PTUDW\\BaiTap6_64131060\\Views\\QuanTris\\DangNhap.cshtml",
-              "RelativeToolTip": "Views\\QuanTris\\DangNhap.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Title": "TimKiemNC.cshtml",
+              "DocumentMoniker": "D:\\PTUDW\\BaiTap6_64131060\\Views\\NhanViens_64131060\\TimKiemNC.cshtml",
+              "RelativeDocumentMoniker": "Views\\NhanViens_64131060\\TimKiemNC.cshtml",
+              "ToolTip": "D:\\PTUDW\\BaiTap6_64131060\\Views\\NhanViens_64131060\\TimKiemNC.cshtml",
+              "RelativeToolTip": "Views\\NhanViens_64131060\\TimKiemNC.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAJMAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T09:54:09.318Z",
+              "WhenOpened": "2024-11-13T10:10:50.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\PTUDW\\BaiTap6_64131060\\Views\\PhongBans\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\PhongBans\\Index.cshtml",
-              "ToolTip": "D:\\PTUDW\\BaiTap6_64131060\\Views\\PhongBans\\Index.cshtml",
-              "RelativeToolTip": "Views\\PhongBans\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Title": "PrintList.cshtml",
+              "DocumentMoniker": "D:\\PTUDW\\BaiTap6_64131060\\Views\\NhanViens_64131060\\PrintList.cshtml",
+              "RelativeDocumentMoniker": "Views\\NhanViens_64131060\\PrintList.cshtml",
+              "ToolTip": "D:\\PTUDW\\BaiTap6_64131060\\Views\\NhanViens_64131060\\PrintList.cshtml",
+              "RelativeToolTip": "Views\\NhanViens_64131060\\PrintList.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T09:53:43.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\PTUDW\\BaiTap6_64131060\\Views\\NhanViens\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\NhanViens\\Delete.cshtml",
-              "ToolTip": "D:\\PTUDW\\BaiTap6_64131060\\Views\\NhanViens\\Delete.cshtml",
-              "RelativeToolTip": "Views\\NhanViens\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T09:46:32.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\PTUDW\\BaiTap6_64131060\\Views\\NhanViens\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\NhanViens\\Details.cshtml",
-              "ToolTip": "D:\\PTUDW\\BaiTap6_64131060\\Views\\NhanViens\\Details.cshtml",
-              "RelativeToolTip": "Views\\NhanViens\\Details.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAADoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T09:46:24.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GioiThieu.cshtml",
-              "DocumentMoniker": "D:\\PTUDW\\BaiTap6_64131060\\Views\\GioiThieu\\GioiThieu.cshtml",
-              "RelativeDocumentMoniker": "Views\\GioiThieu\\GioiThieu.cshtml",
-              "ToolTip": "D:\\PTUDW\\BaiTap6_64131060\\Views\\GioiThieu\\GioiThieu.cshtml",
-              "RelativeToolTip": "Views\\GioiThieu\\GioiThieu.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T08:27:18.689Z",
+              "WhenOpened": "2024-11-13T10:09:54.161Z",
               "EditorCaption": ""
             }
           ]
