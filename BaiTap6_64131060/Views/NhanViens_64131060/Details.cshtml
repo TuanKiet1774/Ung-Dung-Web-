@@ -1,29 +1,28 @@
-﻿@model Ktr_Mau_64131060.Models.SINHVIEN
+﻿@model BaiTap6_64131060.Models.NhanVien
 
 @{
-    ViewBag.Title = "Chi tiết thông tin sinh viên";
+    ViewBag.Title = "Thông tin chi tiết nhân viên";
     Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
     string gtinh = "";
 }
-<h4 style="margin-left: 15px;">THÔNG TIN CHI TIẾT</h4>
-<hr />
-<table cellpadding="0" cellspacing="0" style="font-size:14px;margin-left:50px;">
+
+<table border="1" cellpadding="0" cellspacing="0" style="font-size:14px;margin-left:50px;">
     <tr>
         <td>
             <table cellpadding="2" cellspacing="10">
-                
+                <caption><b>THÔNG TIN CHI TIẾT</b></caption>
                 <tr>
-                    <td rowspan="8" style="width: 150px"><img src="/Images/@Html.DisplayFor(model => model.AnhSV)" width="100" height="100" /></td>
-                    <td>Mã sinh viên:</td>
-                    <td>@Html.DisplayFor(model => model.MaSV)</td>
+                    <td rowspan="8"><img src="/Images/@Html.DisplayFor(model => model.AnhNV)" width="100" height="100" /></td>
+                    <td>Mã nhân viên:</td>
+                    <td>@Html.DisplayFor(model => model.MaNV)</td>
                 </tr>
                 <tr>
-                    <td>Họ sinh viên:</td>
-                    <td>@Html.DisplayFor(model => model.HoSV)</td>
+                    <td>Họ nhân viên:</td>
+                    <td>@Html.DisplayFor(model => model.HoNV)</td>
                 </tr>
                 <tr>
-                    <td>Tên sinh viên:</td>
-                    <td>@Html.DisplayFor(model => model.TenSV)</td>
+                    <td>Tên nhân viên:</td>
+                    <td>@Html.DisplayFor(model => model.TenNV)</td>
                 </tr>
                 <tr>
                     <td>Giới tính:</td>
@@ -41,12 +40,16 @@
                     <td> @(Model.NgaySinh.HasValue ? Model.NgaySinh.Value.ToString("dd/MM/yyyy") : "N/A")</td>
                 </tr>
                 <tr>
+                    <td>Lương:</td>
+                    <td>@Html.DisplayFor(model => model.Luong)</td>
+                </tr>
+                <tr>
                     <td>Địa chỉ:</td>
                     <td>@Html.DisplayFor(model => model.DiaChi)</td>
                 </tr>
                 <tr>
-                    <td>Lớp:</td>
-                    <td>@Html.DisplayFor(model => model.LOP.TenLop)</td>
+                    <td>Phòng ban:</td>
+                    <td>@Html.DisplayFor(model => model.PhongBan.TenPB)</td>
                 </tr>
 
             </table>
@@ -54,6 +57,6 @@
     </tr>
 </table>
 <p style="margin-left:50px;">
-    @Html.ActionLink("Cập nhật", "Edit", new { id = Model.MaSV }) |
+    @Html.ActionLink("Cập nhật", "Edit", new { id = Model.MaNV }) |
     @Html.ActionLink("Quay lại", "Index")
 </p>

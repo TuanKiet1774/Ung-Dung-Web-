@@ -68,28 +68,12 @@ SELECT @SqlStr = '
        WHERE  (1=1)
        '
 IF @MaNV IS NOT NULL
-       SELECT @SqlStr = @SqlStr + '
-              AND (MaNV LIKE ''%'+@MaNV+'%'')
-              '
+       SELECT @SqlStr = @SqlStr + 'AND (MaNV LIKE ''%'+@MaNV+'%'')'
 IF @HoTen IS NOT NULL
-       SELECT @SqlStr = @SqlStr + '
-              AND (HoNV+'' ''+TenNV LIKE ''%'+@HoTen+'%'')
-              '
-IF @GioiTinh IS NOT NULL
-       SELECT @SqlStr = @SqlStr + '
-             AND (GioiTinh LIKE ''%'+@GioiTinh+'%'')
-             '
-IF @LuongMin IS NOT NULL and @LuongMax IS NOT NULL
-       SELECT @SqlStr = @SqlStr + '
-             AND (Luong Between Convert(int,'''+@LuongMin+''') AND Convert(int, '''+@LuongMax+'''))
-             '
-IF @DiaChi IS NOT NULL
-       SELECT @SqlStr = @SqlStr + '
-              AND (DiaChi LIKE ''%'+@DiaChi+'%'')
-              '
-IF @MaPB IS NOT NULL
-       SELECT @SqlStr = @SqlStr + '
-              AND (MaPB LIKE ''%'+@MaPB+'%'')
-              '
+       SELECT @SqlStr = @SqlStr + 'AND (HoNV+'' ''+TenNV LIKE ''%'+@HoTen+'%'')'
+IF @GioiTinh IS NOT NULL SELECT @SqlStr = @SqlStr + 'AND (GioiTinh LIKE ''%'+@GioiTinh+'%'' '
+IF @LuongMin IS NOT NULL and @LuongMax IS NOT NULL SELECT @SqlStr = @SqlStr + 'AND (Luong Between Convert(int,'''+@LuongMin+''') AND Convert(int, '''+@LuongMax+'''))'
+IF @DiaChi IS NOT NULL SELECT @SqlStr = @SqlStr + 'AND (DiaChi LIKE ''%'+@DiaChi+'%'')'
+IF @MaPB IS NOT NULL SELECT @SqlStr = @SqlStr + ' AND (MaPB LIKE ''%'+@MaPB+'%'')'
 	EXEC SP_EXECUTESQL @SqlStr
 END

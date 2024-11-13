@@ -129,11 +129,10 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Controllers\GioiThieuController.cs" />
+    <Compile Include="Controllers\GioiThieu_64131060Controller.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\NhanViensController.cs" />
-    <Compile Include="Controllers\PhongBansController.cs" />
-    <Compile Include="Controllers\QuanTrisController.cs" />
+    <Compile Include="Controllers\NhanViens_64131060Controller.cs" />
+    <Compile Include="Controllers\PhongBans_64131060Controller.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -232,27 +231,21 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\NhanViens\Create.cshtml" />
-    <Content Include="Views\NhanViens\Delete.cshtml" />
-    <Content Include="Views\NhanViens\Details.cshtml" />
-    <Content Include="Views\NhanViens\Edit.cshtml" />
-    <Content Include="Views\NhanViens\Index.cshtml" />
     <Content Include="Views\Shared\_LayoutAdmin.cshtml" />
-    <Content Include="Views\NhanViens\PrintList.cshtml" />
-    <Content Include="Views\NhanViens\TimKiem.cshtml" />
-    <Content Include="Views\NhanViens\TimKiemNC.cshtml" />
-    <Content Include="Views\PhongBans\Create.cshtml" />
-    <Content Include="Views\PhongBans\Delete.cshtml" />
-    <Content Include="Views\PhongBans\Details.cshtml" />
-    <Content Include="Views\PhongBans\Edit.cshtml" />
-    <Content Include="Views\PhongBans\Index.cshtml" />
-    <Content Include="Views\QuanTris\Create.cshtml" />
-    <Content Include="Views\QuanTris\Delete.cshtml" />
-    <Content Include="Views\QuanTris\Details.cshtml" />
-    <Content Include="Views\QuanTris\Edit.cshtml" />
-    <Content Include="Views\QuanTris\Index.cshtml" />
-    <Content Include="Views\QuanTris\DangNhap.cshtml" />
+    <Content Include="Views\NhanViens_64131060\TimKiem.cshtml" />
+    <Content Include="Views\NhanViens_64131060\TimKiemNC.cshtml" />
+    <Content Include="Views\NhanViens_64131060\PrintList.cshtml" />
+    <Content Include="Views\NhanViens_64131060\Index.cshtml" />
+    <Content Include="Views\NhanViens_64131060\Edit.cshtml" />
+    <Content Include="Views\NhanViens_64131060\Details.cshtml" />
+    <Content Include="Views\NhanViens_64131060\Delete.cshtml" />
+    <Content Include="Views\NhanViens_64131060\Create.cshtml" />
     <Content Include="Views\GioiThieu\GioiThieu.cshtml" />
+    <Content Include="Views\PhongBans_64131060\Index.cshtml" />
+    <Content Include="Views\PhongBans_64131060\Details.cshtml" />
+    <Content Include="Views\PhongBans_64131060\Create.cshtml" />
+    <Content Include="Views\PhongBans_64131060\Edit.cshtml" />
+    <Content Include="Views\PhongBans_64131060\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

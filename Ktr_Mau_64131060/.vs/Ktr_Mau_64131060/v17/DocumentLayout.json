@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\PTUDW\\Ktr_Mau_64131060\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|D:\\PTUDW\\Ktr_Mau_64131060\\views\\sinhvien_64131060\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|d:\\ptudw\\ktr_mau_64131060\\views\\sinhvien_64131060\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|solutionrelative:views\\sinhvien_64131060\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -11,27 +11,7 @@
       "RelativeMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|solutionrelative:controllers\\sinhvien_64131060controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|D:\\PTUDW\\Ktr_Mau_64131060\\views\\sinhvien_64131060\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|solutionrelative:views\\sinhvien_64131060\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|d:\\ptudw\\ktr_mau_64131060\\views\\sinhvien_64131060\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|solutionrelative:views\\sinhvien_64131060\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|D:\\PTUDW\\Ktr_Mau_64131060\\views\\sinhvien_64131060\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|solutionrelative:views\\sinhvien_64131060\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|D:\\PTUDW\\Ktr_Mau_64131060\\views\\sinhvien_64131060\\timkiemsv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|solutionrelative:views\\sinhvien_64131060\\timkiemsv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|D:\\PTUDW\\Ktr_Mau_64131060\\views\\sinhvien_64131060\\printlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|solutionrelative:views\\sinhvien_64131060\\printlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|D:\\PTUDW\\Ktr_Mau_64131060\\views\\sinhvien_64131060\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|d:\\ptudw\\ktr_mau_64131060\\views\\sinhvien_64131060\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F01D4920-B8A3-43A4-B511-B8F63F216D6D}|Ktr_Mau_64131060.csproj|solutionrelative:views\\sinhvien_64131060\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -42,33 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TimKiemSV.cshtml",
-              "DocumentMoniker": "D:\\PTUDW\\Ktr_Mau_64131060\\Views\\SinhVien_64131060\\TimKiemSV.cshtml",
-              "RelativeDocumentMoniker": "Views\\SinhVien_64131060\\TimKiemSV.cshtml",
-              "ToolTip": "D:\\PTUDW\\Ktr_Mau_64131060\\Views\\SinhVien_64131060\\TimKiemSV.cshtml",
-              "RelativeToolTip": "Views\\SinhVien_64131060\\TimKiemSV.cshtml",
-              "ViewState": "AQIAABoAAAAAAAAAAAAiwFwAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T07:13:00.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PrintList.cshtml",
-              "DocumentMoniker": "D:\\PTUDW\\Ktr_Mau_64131060\\Views\\SinhVien_64131060\\PrintList.cshtml",
-              "RelativeDocumentMoniker": "Views\\SinhVien_64131060\\PrintList.cshtml",
-              "ToolTip": "D:\\PTUDW\\Ktr_Mau_64131060\\Views\\SinhVien_64131060\\PrintList.cshtml",
-              "RelativeToolTip": "Views\\SinhVien_64131060\\PrintList.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAqwFUAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T07:07:31.208Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -77,60 +32,22 @@
               "RelativeDocumentMoniker": "Views\\SinhVien_64131060\\Index.cshtml",
               "ToolTip": "D:\\PTUDW\\Ktr_Mau_64131060\\Views\\SinhVien_64131060\\Index.cshtml",
               "RelativeToolTip": "Views\\SinhVien_64131060\\Index.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADYAAAAPAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T16:29:48.524Z",
+              "WhenOpened": "2024-11-13T10:04:46.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\PTUDW\\Ktr_Mau_64131060\\Views\\SinhVien_64131060\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\SinhVien_64131060\\Details.cshtml",
               "ToolTip": "D:\\PTUDW\\Ktr_Mau_64131060\\Views\\SinhVien_64131060\\Details.cshtml",
               "RelativeToolTip": "Views\\SinhVien_64131060\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABoAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAABuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T15:46:47.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\PTUDW\\Ktr_Mau_64131060\\Views\\SinhVien_64131060\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\SinhVien_64131060\\Create.cshtml",
-              "ToolTip": "D:\\PTUDW\\Ktr_Mau_64131060\\Views\\SinhVien_64131060\\Create.cshtml",
-              "RelativeToolTip": "Views\\SinhVien_64131060\\Create.cshtml",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAFIAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T07:53:15.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TimKiem.cshtml",
-              "DocumentMoniker": "D:\\PTUDW\\Ktr_Mau_64131060\\Views\\SinhVien_64131060\\TimKiem.cshtml",
-              "RelativeDocumentMoniker": "Views\\SinhVien_64131060\\TimKiem.cshtml",
-              "ToolTip": "D:\\PTUDW\\Ktr_Mau_64131060\\Views\\SinhVien_64131060\\TimKiem.cshtml",
-              "RelativeToolTip": "Views\\SinhVien_64131060\\TimKiem.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T07:50:01.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GioiThieu.cshtml",
-              "DocumentMoniker": "D:\\PTUDW\\Ktr_Mau_64131060\\Views\\SinhVien_64131060\\GioiThieu.cshtml",
-              "RelativeDocumentMoniker": "Views\\SinhVien_64131060\\GioiThieu.cshtml",
-              "ToolTip": "D:\\PTUDW\\Ktr_Mau_64131060\\Views\\SinhVien_64131060\\GioiThieu.cshtml",
-              "RelativeToolTip": "Views\\SinhVien_64131060\\GioiThieu.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T13:06:23.475Z",
+              "WhenOpened": "2024-11-13T10:03:24.682Z",
               "EditorCaption": ""
             },
             {
@@ -141,7 +58,7 @@
               "RelativeDocumentMoniker": "Controllers\\SinhVien_64131060Controller.cs",
               "ToolTip": "D:\\PTUDW\\Ktr_Mau_64131060\\Controllers\\SinhVien_64131060Controller.cs",
               "RelativeToolTip": "Controllers\\SinhVien_64131060Controller.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAAwH4AAAANAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAvwEsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T16:23:44.926Z",
               "EditorCaption": ""

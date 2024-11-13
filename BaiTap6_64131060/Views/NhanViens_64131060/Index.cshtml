@@ -1,0 +1,101 @@
+﻿@model IEnumerable<BaiTap6_64131060.Models.NhanVien>
+
+@{
+    ViewBag.Title = "Danh sách nhân viên";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    int i = 0;
+    string gtinh = "";
+}
+<h2>Danh sách sinh viên</h2>
+<div style="border: 1px solid black; width: fit-content; margin-left: 10px; display:flex;">
+    <div style="border-right: 1px solid black;">@Html.ActionLink("Thêm mới thông tin nhân viên", "Create")</div>
+    <div>@Html.ActionLink("In danh sách", "PrintList")</div>
+</div>
+<table class="table">
+    <tr>
+        <th>STT</th>
+        <th>
+            Mã nhân viên
+        </th>
+        <th>
+            Họ nhân viên
+        </th>
+        <th>
+            Tên nhân viên
+        </th>
+        <th>
+            Giới tính
+        </th>
+        <th>
+            Ngày sinh
+        </th>
+        <th>
+            Lương
+        </th>
+        <th>
+            Ảnh cá nhân
+        </th>
+        <th>
+            Địa chỉ
+        </th>
+        <th>
+            Phòng ban
+        </th>
+        <th>
+            Chức năng
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @{ i++; }
+                @i
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaNV)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoNV)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenNV)
+            </td>
+            <td>
+                @{
+                    if (item.GioiTinh == true)
+                    {
+                        gtinh = "Nam";
+                    }
+                    else
+                    {
+                        gtinh = "Nữ";
+                    }
+                    @gtinh;
+                }
+            </td>
+            <td>
+                @(item.NgaySinh.HasValue ? item.NgaySinh.Value.ToString("dd/MM/yyyy") : "N/A")
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Luong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AnhNV)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhongBan.TenPB)
+            </td>
+            <td>
+                @Html.ActionLink("Chỉnh sửa", "Edit", new { id = item.MaNV }, new { @class = "edit" }) |
+                @Html.ActionLink("Chi tiết", "Details", new { id = item.MaNV }, new { @class = "edit" }) |
+                @Html.ActionLink("Xóa", "Delete", new { id = item.MaNV }, new { @class = "edit" })
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,7 +1,7 @@
 ﻿@model List<Ktr_Mau_64131060.Models.SINHVIEN>
 
 @{
-    ViewBag.Title = "TimKiemSV";
+    ViewBag.Title = "Tìm kiếm thông tin sinh viên";
     Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
     var grid = new WebGrid(Model, canPage: true, defaultSort: "TenSV", rowsPerPage: 2);
     @Scripts.Render("~/Scripts/jquery-1.6.2.min.js")

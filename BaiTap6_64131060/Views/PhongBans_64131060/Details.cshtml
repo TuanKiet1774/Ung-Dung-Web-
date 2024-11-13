@@ -1,0 +1,21 @@
+﻿@model BaiTap6_64131060.Models.PhongBan
+
+@{
+    ViewBag.Title = "Chi tiết phòng ban";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Thông tin phòng ban</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <div style="margin-left: 20px;">
+            <b>Tên phòng ban:</b> @Html.DisplayFor(model => model.TenPB)
+        </div>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Chỉnh sửa", "Edit", new { id = Model.MaPB }) |
+    @Html.ActionLink("Quay lại", "Index")
+</p>
